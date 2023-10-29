@@ -5,14 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="684c8c37-4a27-4f62-9e94-e17cc2f8eb5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/javabrains.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactive-example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,37 +45,45 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.4.14/reactor-core-3.4.14.jar!/reactor/core/publisher/BaseSubscriber.class" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="27vuubJ8YjgMH3yN1OLMmwH5r2f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="code.cleanup.on.save" value="true" />
-    <property name="full.screen.before.presentation.mode" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="io.javabrains.reactiveworkshop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise1">
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise1" />
+  <component name="RunManager" selected="Application.Exercise9">
+    <configuration name="Exercise5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise5" />
       <module name="reactive-example" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise2" />
+    <configuration name="Exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise6" />
       <module name="reactive-example" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise1" />
-        <item itemvalue="Application.Exercise2" />
-        <item itemvalue="Application.Exercise7" />
         <item itemvalue="Application.Exercise9" />
         <item itemvalue="Application.Exercise8" />
+        <item itemvalue="Application.Exercise7" />
+        <item itemvalue="Application.Exercise6" />
+        <item itemvalue="Application.Exercise5" />
       </list>
     </recent_temporary>
   </component>
@@ -169,5 +182,88 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="d00dbd">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise6.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/ReactiveSources.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/User.java" />
+                </list>
+              </option>
+              <option name="id" value="d00dbd" />
+              <option name="initiateTms" value="1698575277321" />
+              <option name="request" value="learn kafka " />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To learn Kafka, you can start by understanding the basic concepts and components of Kafka. Here are the steps you can follow:&#10;&#10;1. **Introduction to Kafka**: Familiarize yourself with the core concepts of Kafka, such as topics, partitions, producers, consumers, and brokers. Understand how Kafka handles data streams and provides fault-tolerant and scalable messaging.&#10;&#10;2. **Installation and Setup**: Install Kafka on your local machine or set up a Kafka cluster. You can download Kafka from the Apache Kafka website and follow the installation instructions for your operating system.&#10;&#10;3. **Producer API**: Learn how to create a Kafka producer application that publishes messages to Kafka topics. Understand how to configure the producer, create and send messages, and handle errors.&#10;&#10;4. **Consumer API**: Explore the Kafka consumer API to build applications that consume messages from Kafka topics. Learn how to configure the consumer, subscribe to topics, and process incoming messages.&#10;&#10;5. **Kafka Connect**: Understand Kafka Connect, which is a framework for connecting Kafka with external systems. Learn how to use connectors to import or export data from Kafka to other data sources or sinks.&#10;&#10;6. **Kafka Streams**: Dive into Kafka Streams, a client library for building real-time streaming applications on top of Kafka. Learn how to process and transform data streams using Kafka Streams DSL or the Processor API.&#10;&#10;7. **Kafka Security**: Explore the security features of Kafka, such as authentication, authorization, and encryption. Understand how to configure SSL/TLS for secure communication between Kafka clients and brokers.&#10;&#10;8. **Monitoring and Operations**: Learn about monitoring Kafka clusters using tools like Kafka Manager, Confluent Control Center, or Prometheus and Grafana. Understand how to manage topics, partitions, and replication for optimal performance.&#10;&#10;9. **Kafka Ecosystem**: Explore the Kafka ecosystem and its integration with other technologies like Apache ZooKeeper, Apache Avro, Apache Spark, and Apache Flink. Understand how these technologies work together to build robust and scalable data processing pipelines.&#10;&#10;10. **Hands-on Projects**: Practice building real-world projects using Kafka. Implement use cases like real-time data processing, event-driven architectures, log aggregation, and streaming analytics.&#10;&#10;Remember to refer to the official Kafka documentation and explore online tutorials, blogs, and videos to deepen your understanding of Kafka. Additionally, consider joining online communities and forums where you can ask questions and learn from experienced Kafka users." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1698575288583" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise6.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/ReactiveSources.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/User.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="eec186">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise6.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/ReactiveSources.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/User.java" />
+                </list>
+              </option>
+              <option name="id" value="eec186" />
+              <option name="initiateTms" value="1698579410199" />
+              <option name="request" value="Get the value from unresponsiveFlux into a String list but give up after 5 seconds" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To get the values from the `unresponsiveFlux` into a `String` list but give up after 5 seconds, you can use the `take` operator with a duration of 5 seconds. Here's the modified code:&#10;&#10;```java&#10;import java.io.IOException;&#10;import java.time.Duration;&#10;import java.util.List;&#10;&#10;public class Exercise6 {&#10;&#10;    public static void main(String[] args) throws IOException {&#10;&#10;        // Use ReactiveSources.unresponsiveFlux() and ReactiveSources.unresponsiveMono()&#10;&#10;        // Get the value from the Mono into a String variable but give up after 5 seconds&#10;        String value = ReactiveSources.unresponsiveMono().block(Duration.ofSeconds(5));&#10;&#10;        // Get the value from unresponsiveFlux into a String list but give up after 5 seconds&#10;        List&lt;String&gt; valueList = ReactiveSources.unresponsiveFlux().take(Duration.ofSeconds(5)).collectList().block();&#10;&#10;        System.out.println(&quot;Press a key to end&quot;);&#10;        System.in.read();&#10;    }&#10;&#10;}&#10;```&#10;&#10;In the modified code, the `take` operator is used on the `unresponsiveFlux` to limit the stream to emit elements for a duration of 5 seconds. Then, the `collectList` operator is used to collect all the emitted elements into a `List&lt;String&gt;`. Finally, the `block` method is called to wait for the completion of the `collectList` operation and retrieve the resulting `List&lt;String&gt;`." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1698579414814" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise6.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/ReactiveSources.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/User.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="f2f3e4">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="f2f3e4" />
+              <option name="initiateTms" value="1698584195209" />
+              <option name="request" value="push the project to another newly created repository" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To push the project to another newly created repository, you can follow these steps:&#10;&#10;1. Create a new repository on the platform where you want to host your code (e.g., GitHub, GitLab, Bitbucket).&#10;2. In your local project directory, initialize a new Git repository if you haven't already done so. You can use the following command:&#10;   ```&#10;   git init&#10;   ```&#10;3. Add the remote repository URL of the newly created repository as a remote to your local repository. Replace `&lt;remote-url&gt;` with the actual URL of the remote repository:&#10;   ```&#10;   git remote add origin &lt;remote-url&gt;&#10;   ```&#10;4. Stage all the files in your local repository for commit. You can use the following command to stage all files:&#10;   ```&#10;   git add .&#10;   ```&#10;   Alternatively, you can specify individual files or directories to stage.&#10;5. Commit the changes with a meaningful commit message:&#10;   ```&#10;   git commit -m &quot;Initial commit&quot;&#10;   ```&#10;6. Push the local repository to the remote repository's main branch (usually named `master` or `main`). Use the following command:&#10;   ```&#10;   git push -u origin main&#10;   ```&#10;   Replace `main` with the actual branch name if it's different in your repository.&#10;7. Enter your credentials (username and password) if prompted.&#10;&#10;After executing these steps, your project will be pushed to the newly created repository." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1698584201705" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise8.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/ReactiveSources.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/User.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
